@@ -1,0 +1,14 @@
+p{
+    font-weight: lighter;
+    color: rgba(99, 97, 97, 0.914);
+    font-family: cursive;
+}
+h1{
+    font-weight: bold;
+    color: rgba(99, 97, 97, 0.914);
+    font-family: cursive;
+    font-style: italic;
+}
+body{
+    background-color: rgb(201, 229, 254);
+}
